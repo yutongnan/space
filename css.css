@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="styles.css">
+ <title>Gallery - Space Travel Fanatics</title>
+</head>
+<body>
+ <header>
+ <h1>Gallery</h1>
+ <nav>
+ <ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="about.html">About</a></li>
+ <li><a href="gallery.html">Gallery</a></li>
+ <li><a href="contact.html">Contact</a></li>
+ </ul>
+ </nav>
+ </header>
+ 
+ <section class="main-content">
+ <h2>Explore Our Space Travel Gallery</h2>
+ <p>Check out these stunning images and videos from space missions.</p>
+ 
+ <div class="media">
+ <img src="image1.jpg" alt="Space Image 1">
+ <img src="image2.jpg" alt="Space Image 2">
+ <video controls>
+ <source src="video.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+ </video>
+ </div>
+ </section>
+ 
+ <footer>
+ &copy; 2023 Space Travel Fanatics
+ </footer>
+</body>
+</html>

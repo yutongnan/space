@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="styles.css">
+ <title>About Us - Space Travel Fanatics</title>
+</head>
+<body>
+ <header>
+ <h1>About Space Travel Fanatics</h1>
+ <nav>
+ <ul>
+ <li><a href="index.html">Home</a></li>
+ <li><a href="about.html">About</a></li>
+ <li><a href="gallery.html">Gallery</a></li>
+ <li><a href="contact.html">Contact</a></li>
+ </ul>
+ </nav>
+ </header>
+ 
+ <section class="main-content">
+ <h2>Our Mission</h2>
+ <p>We are dedicated to sharing the beauty and excitement of space exploration with the world.</p>
+ 
+ <h2>Our Team</h2>
+ <p>Meet our passionate team of space enthusiasts who run Space Travel Fanatics.</p>
+ </section>
+ 
+ <footer>
+ &copy; 2023 Space Travel Fanatics
+ </footer>
+</body>
+</html>
